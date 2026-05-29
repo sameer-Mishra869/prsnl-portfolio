@@ -52,6 +52,8 @@ If you'd like to run this portfolio locally:
 
 ## 🌐 Live Demo & Deployment
 
+prsnl-portfolio.vercel.app
+
 This project is configured to automatically deploy to **GitHub Pages** whenever new code is pushed to the `main` branch, ensuring the live demo is always up-to-date!
 
 ---
