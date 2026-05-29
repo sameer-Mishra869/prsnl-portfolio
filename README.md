@@ -52,7 +52,7 @@ If you'd like to run this portfolio locally:
 
 ## 🌐 Live Demo & Deployment
 
-prsnl-portfolio.vercel.app
+[prsnl-portfolio.vercel.app](https://prsnl-portfolio-jnwnk9rm5-sameer8t1-4336s-projects.vercel.app)
 
 This project is configured to automatically deploy to **GitHub Pages** whenever new code is pushed to the `main` branch, ensuring the live demo is always up-to-date!
 
