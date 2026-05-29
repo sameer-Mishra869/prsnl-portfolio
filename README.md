@@ -1,14 +1,14 @@
-# 🌟 Sameer Mishra - Developer Portfolio
+ Sameer Mishra - Developer Portfolio
 
 Welcome to my personal developer portfolio! This is a modern, responsive, and beautifully designed web application built to showcase my journey as an aspiring Full Stack Developer, my projects, my technical skills, and my certifications.
 
-## 🎨 Theme: Warm Humanist Editorial
+🎨 Theme: Warm Humanist Editorial
 The design system moves away from cold, generic interfaces and focuses on a handcrafted **"Warm Humanist Editorial"** aesthetic. 
 - **Typography:** Features the elegant literary serif **Lora** for headings and the clean, modern **Plus Jakarta Sans** for body text.
 - **Color Palette:** Warm alabaster cream (`#fdfbf7`), rich espresso text, and glowing terracotta (`#d36b46`) and apricot (`#e6a15c`) accents. The application fully supports a seamless Dark Mode theme.
 - **Dynamic Live Background:** Includes a custom HTML5 Canvas live background featuring floating glass orbs, drifting particles, and interactive mouse-glow.
 
-## 🚀 Key Features
+🚀 Key Features
 
 *   **Interactive Hero Section:** Welcoming header with dynamic SVG illustrations and immediate calls-to-action.
 *   **Live Background:** Custom-engineered HTML5 canvas particle and orb system.
@@ -18,15 +18,14 @@ The design system moves away from cold, generic interfaces and focuses on a hand
 *   **Scroll Assistant Widget:** An elegant tracking widget that follows your reading progress and invites you to connect.
 *   **Fully Responsive & Accessible:** Designed to look stunning on both mobile devices and ultra-wide desktop monitors.
 
-## 🛠️ Technology Stack
+🛠️ Technology Stack
 
-*   **Framework:** React 18
-*   **Build Tool:** Vite
-*   **Animations:** Framer Motion
-*   **Styling:** Pure Vanilla CSS (Custom Design System with CSS Variables)
-*   **Icons:** React Icons (Feather)
+*   Framework: React 
+*   Build Tool: Vite
+*   Styling: Pure Vanilla CSS (Custom Design System with CSS Variables)
+*   Icons: React Icons (Feather)
 
-## 💻 Getting Started (Local Development)
+💻 Getting Started (Local Development)
 
 If you'd like to run this portfolio locally:
 
